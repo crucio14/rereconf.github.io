@@ -1,0 +1,8 @@
+[{
+	"speaker": "Andrea Francia",
+	"title": "Creating a small but complete application from scratch using TDD",
+	"link": "https://www.youtube.com/watch?v=BU8mbXFJTAI",
+	"tags": ["TDD"],
+	"abstract": " Come funziona realmente TDD?\nIn questa sessione, risponderò a questa domanda con un esempio pratico creando un'applicazione completa da zero usando Test Driven Development."
+}
+]

@@ -1,18 +1,9 @@
 [{
 	"conference": "NoSlidesConf",
 	"year": 2016,
-	"speaker": "Paolo Perrotta",
-	"title": "Understanding Git",
-	"link": "https://www.youtube.com/watch?v=nHkLxts9Mu4",
-	"tags": ["git"],
-	"abstract": "If you understand the Git way of thinking, you can truly profit from it instead of fighting against it. And yet, most Git trainingst will teach you the commands, not the underlying model. Focus on the model, and you'll find that Git is simpler than you think. Here is how it works."
+	"url": "NoSlidesConf-2016.json"
 },{
 	"conference": "NoSlidesConf",
-	"year": 2016,
-	"speaker": "Roberto Franchini",
-	"title": "Kotlin social graph",
-	"link": "https://www.youtube.com/watch?v=i_iZ6OhQzq0",
-	"tags": ["kotlin"],
-	"abstract": "How to fetch and persist the Twitter stream to an OrientDB graph database using Kotlin as main language, with the support of Docker, of course.\nOrientDB running in a Docker container Twitter4j for fetching the Twitter strem Kotlin to code."
-}
-]
+	"year": 2017,
+	"url": "NoSlidesConf-2017.json"
+}]
