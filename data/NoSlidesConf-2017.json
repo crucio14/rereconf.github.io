@@ -1,8 +1,87 @@
-[{
-	"speaker": "Andrea Francia",
-	"title": "Creating a small but complete application from scratch using TDD",
-	"link": "https://www.youtube.com/watch?v=BU8mbXFJTAI",
-	"tags": ["TDD"],
-	"abstract": " Come funziona realmente TDD?\nIn questa sessione, risponderò a questa domanda con un esempio pratico creando un'applicazione completa da zero usando Test Driven Development."
-}
+[
+  {
+    "speaker": "Andrea Francia",
+    "title": "Creating a small but complete application from scratch using TDD",
+    "link": "https://www.youtube.com/watch?v=BU8mbXFJTAI",
+    "tags": ["TDD"],
+    "abstract": " Come funziona realmente TDD?\nIn questa sessione, risponderò a questa domanda con un esempio pratico creando un'applicazione completa da zero usando Test Driven Development."
+  },
+  {
+    "speaker": "Alessandro Melchiori",
+    "title": "Cooking Akka.Net and ServiceFabric together",
+    "link": "https://www.youtube.com/watch?v=gdxveEu7l4k",
+    "abstract": "Erlang, Elixir, Scala and Akka sono le implementazioni più famose di un modello matematico nato nel 1973: l'Actor Model.\nÈ usato per costruire applicazioni concorrenti e distribuite.\nIl concetto dietro ad un attore si adatta perfettamente anche nel mondo del cloud.\nAkka.net e ServiceFabric Reliable Actor sono le implementazioni più conosciute della piattaforma .Net.\nPerché devo scegliere? Perché non posso usarle entrambe per avere il meglio dei due mondi?"
+  },
+  {
+    "speaker": "Marco Perone",
+    "title": "Introduction to type driven development in Idris",
+    "link": "https://www.youtube.com/watch?v=XPexJj035XY",
+    "abstract": "Types are a precious instrument to document our code and to catch errors at compile time, but they could be much more.\nWhat if we could use types to drive our design process, to model precisely our domain and continuously receive feedback on it while we produce code? What if we could not only use types to find errors but also to actually prove the absence of errors?\nIf we introduce types as a first-class language construct, all of this, and much more, becomes possible.\nIn this talk we will see how to bring into play the full power of types using Idris, a purely functional programming language with dependent types, letting the types guide the development and being assisted by the compiler itself."
+  },
+  {
+    "speaker": "Michele D'Amico",
+    "title": "A Bite of Rust",
+    "link": "https://www.youtube.com/watch?v=ey8WWhN9Qr4",
+    "abstract": "Conosceremo il linguaggio Rust con una sessione live sul \"String Calculator Kata\".\nRust è un \"Safe and Fast system language\", ma c'è un prezzo da pagare per poter essere entrambe le cose.\nGrazie a questo classico Kata TDD, esploreremo qualche aspetto della sintassi ed introdurremo qualche nuovo concetto di Rust come \"ownership\", \"borrowing\" e \"lifetime\".\nL'obiettivo di questo talk non è insegnarvi Rust ma mostrarvi qualche concetto che lo rendono così unico.\nSarà una sessione breve ma intensa che vi darà l'opportunità di assaggiare \"A Bite of Rust\"!"
+  },
+  {
+    "speaker": "Alessandro Lacava",
+    "title": "Internal DSL design in Scala",
+    "link": "https://www.youtube.com/watch?v=Er9h8F9QbnY",
+    "abstract": "A domain-specific language (DSL) is a language that you design with a specific domain in mind.\nThere are two types of domain-specific languages (DSLs): external and internal.\nThe former implicates — in the simplest case — parsing a string into the programming language syntax. The latter, on the other hand, involves implementing a language within your own programming language. \nQuoting Martin Fowler, \"Internal DSLs are particular ways of using a host language to give the host language the feel of a particular language\".\nIn this session you'll see how to implement a simple but complete internal DSL in Scala. You'll see that Scala syntax has some important features that makes it a DSL-friendly language."
+  },
+  {
+    "speaker": "Antonio Liccardi",
+    "title": "An “emotional” app with Xamarin",
+    "link": "https://www.youtube.com/watch?v=yjVjlOlhqM4",
+    "abstract": "Oggi gli smartphone nelle nostre tasche hanno più potenza computazionale di tutti i computer della NASA quando portò il primo uomo sulla luna nel 1969. Ma la cosa più sorprendente è che non lo sappiamo: per esempio, la videocamera del nostro smartphone non è fatta solamente per i selfie!\nInoltre, se combiniamo un insieme di servizi \"smart\" che possono aiutare ad interpretare il mondo attorno a noi, l'unico limite a ciò che possono fare questi device è la nostra immaginazione!\nIn questa sessione programmerò una smart mobile app usando Xamarin e Azure Cognitive Sevices."
+  },
+  {
+    "speaker": "Marco Arena",
+    "title": "Competitive Programming for fun and self-improvement",
+    "link": "https://www.youtube.com/watch?v=6dEcHr6gieM",
+    "abstract": "Qualche anno fa ho iniziato ad affrontare problemi di programmazione sui siti web di Competitive Programming, un po' per gioco, un po' perché mi sembrava di sperimentare qualcosa di nuovo.\nMi sono appassionato sempre di più e rapidamente sono arrivato a risolvere un paio di esercizi al giorno.\nDopo qualche tempo ho notato diversi benefici: ero diventato più veloce nel riconoscere patterns nel codice, avevo scoperto nuovi tipi di domande su cui ragionare quando affrontavo un problema e provavo ad andare oltre la prima soluzione che funzionava.\nAnche il mio alter ego professionista era influenzato positivamente.\nDue anni dopo ho deciso di condividere questa esperienza con la Community. Ho formato un nuovo format per meetup chiamato \"Coding Gym\", aperto a tutti i linguaggi di programmazione e che organizzo mensilmente a Modena.\nVorrei raccontarvi di più su questa storia risolvendo qualche problema di programmazione interessante preso dai Coding Gym passati.\nSebbene scriverò per lo più codice C++ - usando idiomi e gemme della standard library - il mio focus sarà quello di mostrarvi perché qualsiasi programmatore professionista può beneficiare nel praticare Competitive Programming."
+  },
+  {
+    "speaker": "Victor Kropp",
+    "title": "Create your own DSL in Kotlin",
+    "link": "https://www.youtube.com/watch?v=tZIRovCbYM8",
+    "abstract": "Every API you create is, in fact, a domain-specific language for your business domain. \nKotlin is a general purpose programming language, but it offers some constructs, that make creation and usage of embedded DSLs effortless and fun. DSL makes your code expressive and easy to read. \nIn this talk, I'll show those language features and guide you through a process of creation of an internal mini language."
+  },
+  {
+    "speaker": "Aleksandar Simovic",
+    "title": "Adding Effortless to Serverless",
+    "link": "https://www.youtube.com/watch?v=zAqjgjGjkR0",
+    "abstract": "Kick the new serverless buzzword hype and learn how to create and deploy a new serverless API in 10 minutes with AWS Lambda, API Gateway and Claudia.js.\nThere are lots of talks about serverless these days, but how can you avoid all that mystery and try it for yourself without reading many tutorials, documentation and watching lots of presentations?\nThis NoSlides talk will show you how to create your first serverless API in 10 minutes and then deploy it to AWS in seconds with Claudia.js. \nAlong the way, will also show why you don’t have to worry about scaling any more, how to structure your serverless APIs, separate your services, debug and where should you or should not use serverless, all in code."
+  },
+  {
+    "speaker": " Samuele Reghenzi",
+    "title": "The gigant mood-o-meter",
+    "link": "https://www.youtube.com/watch?v=ZwhYB4qNRpE",
+    "abstract": "Dimostrerò la realizzazione in real-time di un analizzatore linguistico di \"sentiment-analysis\" e, velocemente, come usarlo come un classificatore di commenti di Reddit.\nI commenti sul social network del 2017 e Spark (con codice Scala) saranno usati come set iniziale per implementare un classificatore.\nL'approccio predittivo e la sorgente dati ci potrebbero permettere di creare uno strumento per misurare l'umore generale degli utenti Reddit, i gruppi più positivi e negativi, e forse qualcosa che ancora non conosciamo."
+  },
+  {
+    "speaker": "Ju Liu",
+    "title": "Live coding a Mondrian art generator in Elm",
+    "link": "https://www.youtube.com/watch?v=3rU59MGwNC8",
+    "abstract": "In this talk we will use the amazing powers of the Elm ecosystem to build a Mondrian art generator.\nWe will spend some time looking at Mondrian pieces to get a better idea of the pieces we want our program to create.\nThen we will use the provided command line tools to start a project from scratch. \nWe will introduce some basic concepts of Elm and start composing our application. \nA word of warning for the backend developers: even the CSS will be live coded, so come prepared."
+  },
+  {
+    "speaker": "Matteo Baglini",
+    "title": "Functional Refactoring",
+    "link": "https://www.youtube.com/watch?v=qqS5CKXXvdg",
+    "abstract": "Inizieremo con un pezzo di codice e una manciata di test verdi per affrontare un viaggio nel refactoring utile per esplorare e capire concetti di design presi dal mondo della programmazione funzionale."
+  },
+  {
+    "speaker": "Jorge E. Q. Otoya",
+    "title": "Where did my messages go? Tracing distributed systems with OpenTracing",
+    "link": "https://www.youtube.com/watch?v=hqV4P6Ej7DM",
+    "abstract": "Having the ability to know where and when each message has been sent or received between your systems is becoming even more relevant today, where distributing components, like microservices, are becoming the defacto architecture in enterprises trying to develop distributed systems that scale.\nEven when you have metrics and logging tools implemented, that’s not enough to recreate the journey of each transaction and how they propagate between components [1].\nTracing messages between distributed systems gives visibility over communication and performance per transaction received from a client, and how this propagates between different components around your systems.\nOpentracing is an API that is aimed to standardize how systems can implement distributed tracing. \nSo, from the client (e.g. mobile, web), to the proxy, APIs, and backend systems (i.e. databases and messaging systems) mark how long it takes to communicate with each component.\nThis presentation will show how to instrument your Java applications with OpenTracing to be able to trace messages from web/mobile clients to your services and back to your data systems, and in this way, how to visualize, transaction per transaction, how your messages flows using a couple of the OpenTracing tools available, Uber's Jaeger [2] and Zipkin [3] .\n\n[1] <a class=\"yt-simple-endpoint style-scope yt-formatted-string\" href=\"/redirect?redir_token=6RRaBU07Czo4VrzWGQgnYXsSACl8MTUxNDkzMjY0OEAxNTE0ODQ2MjQ4&amp;q=https%3A%2F%2Fmedium.com%2Fopentracing%2Ftowards-turnkey-distributed-tracing-5f4297d1736&amp;v=hqV4P6Ej7DM&amp;event=video_description\">https://medium.com/opentracing/toward...</a>\n\n[2] <a class=\"yt-simple-endpoint style-scope yt-formatted-string\" href=\"/redirect?redir_token=6RRaBU07Czo4VrzWGQgnYXsSACl8MTUxNDkzMjY0OEAxNTE0ODQ2MjQ4&amp;q=https%3A%2F%2Fuber.github.io%2Fjaeger%2F&amp;v=hqV4P6Ej7DM&amp;event=video_description\">https://uber.github.io/jaeger/</a>\n\n[3] <a class=\"yt-simple-endpoint style-scope yt-formatted-string\" href=\"/redirect?redir_token=6RRaBU07Czo4VrzWGQgnYXsSACl8MTUxNDkzMjY0OEAxNTE0ODQ2MjQ4&amp;q=http%3A%2F%2Fzipkin.io%2F&amp;v=hqV4P6Ej7DM&amp;event=video_description\">http://zipkin.io/</a>"
+  },
+  {
+    "speaker": "Slobodan Stojanovic",
+    "title": "Alexa, start the presentation",
+    "link": "https://www.youtube.com/watch?v=D-eUnlaqUTw",
+    "abstract": "This session will show you how to build Alexa skill from scratch and deploy it to AWS Lambda; from skill setup, to the code and manually built analytics.\nAlexa, along with other voice assistants, is becoming more and more popular, and the number of skills is increasing almost exponentially.\nPlatform itself is growing but you can already build useful skills, either for your business or just for fun.\n\nThis talk will show you:\n  - How to setup Alexa skill\n  - How to define intents and slots\n  - How to deploy the skill to AWS\n  - How to test the skill\n  - How to debug skill\n  - What are the limitations of Alexa platform at the moment\n  - And finally how to create simple analytics for your skills"
+  }
 ]

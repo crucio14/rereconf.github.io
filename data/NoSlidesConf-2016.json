@@ -10,5 +10,77 @@
 	"link": "https://www.youtube.com/watch?v=i_iZ6OhQzq0",
 	"tags": ["kotlin"],
 	"abstract": "How to fetch and persist the Twitter stream to an OrientDB graph database using Kotlin as main language, with the support of Docker, of course.\nOrientDB running in a Docker container Twitter4j for fetching the Twitter strem Kotlin to code."
-}
+},
+  {
+    "speaker": "Christoph Reinartz",
+    "title": "Let us build a feature on Trivago",
+    "link": "https://www.youtube.com/watch?v=-4Sy-uYU_i8",
+    "abstract": "A feature implementation in the production codebase of one of the biggest metasearch engines worldwide. Trivago is a highly data driven company and this session will show how we implement an A/B test into our core product. The demo will show the lifecycle of a feature, from implementation, through testing, review and finally to deployment."
+  },
+  {
+    "speaker": "David Pilato",
+    "title": "Advanced search for your legacy application",
+    "link": "https://www.youtube.com/watch?v=4VnmamXt3as",
+    "abstract": "Uploaded on 18 Dec 2016\n\nHow do you mix SQL and NoSQL worlds without starting a messy revolution? This live coding talk will show you how to add Elasticsearch to your legacy application without changing all your current development habits. Your application will suddenly have advanced search features, all without the need to write complex SQL code! David will start from a RestX, Hibernate and Postgresql/MySQL based application and will add a complete integration of Elasticsearch, all live from the stage during his presentation."
+  },
+  {
+    "speaker": "Andrea Leopardi",
+    "title": "Crowd-controlling a game with Elixir and Phoenix",
+    "link": "https://www.youtube.com/watch?v=lYQ3WwCMTJI",
+    "abstract": "In this demo, we're going to build a crowd-controlled game with Elixir and Phoenix. Elixir is a young and exciting language based on the battle-tested Erlang and Phoenix is an Elixir framework for the modern web. With these tools, we're gonna be able to create a fault-tolerant, scalable, real-time game that the audience will be able to control from their browser: everyone at the same time, of course! In the process (pun intended, you'll get it after the demo!), we're gonna learn the basics of Elixir and Erlang, get excited about how cool they are, have a look at Phoenix, and discuss more serious things that can be done with these technologies, such as making a ton of fault-tolerant, scalable, real-time money!"
+  },
+  {
+    "speaker": "Ju Liu",
+    "title": "Predicting Titanic survivors with machine learning",
+    "link": "https://www.youtube.com/watch?v=YhZXU5zUnO0",
+    "abstract": "What's a better way to understand machine learning than a practical example? And who hasn't watched the classic 1997 movie? In this session, we will implement various machine learning tecniques step-by-step to predict the chance of survival of Titanic passengers, backed by real historical data and some amazing Python libraries."
+  },
+  {
+    "speaker": "Luigi Dell'Aquila",
+    "title": "Geospatial graphs made easy with OrientDB",
+    "link": "https://www.youtube.com/watch?v=yD9-YUdKeSQ",
+    "abstract": "Modeling and querying persistent data structures can be tricky when they involve semi-structured data, complex relationships (with deep traversal) and physical information like geographical positions, areas, shapes and so on. Bad news is that almost all modern applications have to manage such kind of data. In this session we will see how to use OrientDB v2.2 Document-Graph engine and its new Geospatial Indexes to efficiently manage and query connected, spatial information. Of course we will also display these data on an Angular2+GoogleMaps front-end."
+  },
+  {
+    "speaker": "Gianluca Padovani",
+    "title": "Create your distributed, scalable and fault tolerant application with riak_core",
+    "link": "https://www.youtube.com/watch?v=XcDgh2_nLgU",
+    "abstract": "From the readme file(<a class=\"yt-simple-endpoint style-scope yt-formatted-string\" href=\"/redirect?q=https%3A%2F%2Fgithub.com%2Fbasho%2Friak_core&amp;redir_token=F_qICY3HOkkM3mtElPgL6dj5uWN8MTUxNDkzMTk3NEAxNTE0ODQ1NTc0&amp;v=XcDgh2_nLgU&amp;event=video_description\">https://github.com/basho/riak_core</a>) of riak_core: Riak Core is the distributed systems framework that forms the basis of how Riak distributes data and scales. \nMore generally, it can be thought of as a toolkit for building distributed, scalable, fault-tolerant applications. In this talk we will explore some majors features of riak_core, how we can use it in an Elixir application to create a simple distributed application"
+  },
+  {
+    "speaker": "Simone Tiraboschi",
+    "title": "Manage your virtual datacenter with oVirt APIs and Python",
+    "link": "https://www.youtube.com/watch?v=v2jKubXp4fc",
+    "abstract": "oVirt is a virtualization platform with an easy-to-use web interface. It manages virtual machines, storage and virtualized networks and makes KVM (Kernel-based Virtual Machine) a viable feature-rich, enterprise-class virtualization alternative. oVirt provides a set of REST APIs for:\n- Infrastructure configuration\n- Host configuration and management\n- Network and storage configuration\n- Virtual machine (VM) configuration and management\n- Networking for the Guest, Virtual disks, VM properties\n- User management\n- Daily maintenance and VM lifecycle management\n\nThe APIs can be used:\n- As way to integrate with other software used in the organization\n- For automation of tasks (provisioning and management Software development)\n- For scripting and utilities\n\nMore over, this could be integrated with other tools like cloud-init or Ansible to configure you specific VMs and build your open infrastructure as code stack. The oVirt REST APIs can be directly accessed (RSDL is also available) and Java, Python and Ruby SDK are also available. In this session we'll see:\n- how to access oVirt with the python SDK\n- how to dynamically create and start a new VM on an oVirt infrastructure from our code checking capabilities and available resources\n- how to initially configure the new VM via cloudInit\n- how to manage it with Ansible"
+  },
+  {
+    "speaker": "Matteo Baglini",
+    "title": "Funny Code",
+    "link": "https://www.youtube.com/watch?v=KlgyViAbU4k",
+    "abstract": "We'll start refactoring a bit of imperative JavaScript composed by common programming language constructs such as data structures, conditionals and loops, to make it declarative and composed only by functions as the fundamental building block of computation. During the journey we will explore some interesting topics like combinatory logic, tail-call optimization and good design principles."
+  },
+  {
+    "speaker": "Einar Høst",
+    "title": "Hypermedia games",
+    "link": "https://www.youtube.com/watch?v=PNqC3g3Fk1Q",
+    "abstract": "As the Web has shown, hypermedia messages over HTTP are an elegant and flexible way of building applications. The HTTP infrastructure simplifies your application protocol and gives you caching and scalability essentially for free. Hypermedia messages give dynamic control over the application state transitions, allowing to grow applications and change things around without breaking clients. These are terrific properties! In this talk, I'll put these claims to the test as we play, dissecting and extending an old-school text adventure game implemented using nothing but HTTP and hypermedia."
+  },
+  {
+    "speaker": " Giulio De Donato",
+    "title": "Create Docker from scratch with Golang and bashism",
+    "link": "https://www.youtube.com/watch?v=uj6xE54BVAc",
+    "abstract": "Discover the features provided by the Linux kernel and exploited by Docker to create his empire. We will write a bunch of GoLang code, showing how easy is to isolate users, control processes and manage filesystem branches by using CGroups and namespaces."
+  },
+  {
+    "speaker": "Marco Piraccini",
+    "title": "Profiling and debugging with NodeJS",
+    "link": "https://www.youtube.com/watch?v=_I7bsQx6AT4",
+    "abstract": "Profiling and debugging are hard activities in general, since they are related with the dynamic behaviour of applications. In NodeJS, due to his asynchronous and event-driven nature, this can be even harder. In this session we will see the most effective options for debugging and profiling NodeJS applications, identifying bottlenecks and memory leaks and showing GC activity and CPU usage flame graphs."
+  },
+  {
+    "speaker": "Andrea Francia",
+    "title": "Kata in Bash",
+    "link": "https://www.youtube.com/watch?v=N8up3OxfnCQ",
+    "abstract": "Developing a Bash script incrementally, performing automated tests without using any framework: during this session a mini-framework will be developed from scratch using only out-of-the-box system features and tools."
+  }
 ]
