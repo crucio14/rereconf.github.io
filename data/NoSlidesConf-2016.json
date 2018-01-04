@@ -3,24 +3,28 @@
 	"title": "Understanding Git",
 	"link": "https://www.youtube.com/watch?v=nHkLxts9Mu4",
 	"tags": ["git"],
+    "language": "en",
 	"abstract": " If you understand the Git way of thinking, you can truly profit from it instead of fighting against it. And yet, most Git trainingst will teach you the commands, not the underlying model. Focus on the model, and you'll find that Git is simpler than you think. Here is how it works."
 },{
 	"speaker": "Roberto Franchini",
 	"title": "Kotlin social graph",
 	"link": "https://www.youtube.com/watch?v=i_iZ6OhQzq0",
 	"tags": ["kotlin"],
+    "language": "en",
 	"abstract": "How to fetch and persist the Twitter stream to an OrientDB graph database using Kotlin as main language, with the support of Docker, of course.\nOrientDB running in a Docker container Twitter4j for fetching the Twitter strem Kotlin to code."
 },
   {
     "speaker": "Christoph Reinartz",
     "title": "Let us build a feature on Trivago",
     "link": "https://www.youtube.com/watch?v=-4Sy-uYU_i8",
+    "language": "en",
     "abstract": "A feature implementation in the production codebase of one of the biggest metasearch engines worldwide. Trivago is a highly data driven company and this session will show how we implement an A/B test into our core product. The demo will show the lifecycle of a feature, from implementation, through testing, review and finally to deployment."
   },
   {
     "speaker": "David Pilato",
     "title": "Advanced search for your legacy application",
     "link": "https://www.youtube.com/watch?v=4VnmamXt3as",
+    "language": "en",
     "abstract": "Uploaded on 18 Dec 2016\n\nHow do you mix SQL and NoSQL worlds without starting a messy revolution? This live coding talk will show you how to add Elasticsearch to your legacy application without changing all your current development habits. Your application will suddenly have advanced search features, all without the need to write complex SQL code! David will start from a RestX, Hibernate and Postgresql/MySQL based application and will add a complete integration of Elasticsearch, all live from the stage during his presentation."
   },
   {

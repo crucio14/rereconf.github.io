@@ -1,5 +1,30 @@
 .conference-box {
-	padding:5px;
-	border: 1px solid black;
-	margin: 2px;
+	margin-bottom: 20px;
+}
+
+.language{
+	float:left;
+	margin-right: 4px;
+}
+
+.talk-title{
+	font-size: 1.2em;
+}
+
+.speaker {
+	float: left;
+	margin-right:10px;
+}
+
+.conference {
+	float: left;
+	text-overflow: ellipsis;
+}
+
+.abstract {
+	clear: both;
+	display: block;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
 }
