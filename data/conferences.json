@@ -6,4 +6,8 @@
 	"conference": "NoSlidesConf",
 	"year": 2017,
 	"url": "NoSlidesConf-2017.json"
+},{
+	"conference": "IAD",
+	"year": 2016,
+	"url": "IAD-2016.json"
 }]

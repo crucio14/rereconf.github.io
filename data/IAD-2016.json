@@ -1,0 +1,146 @@
+[
+  {
+    "speaker": "Marco Trincardi",
+    "title": "Metriche per finanziare il cambiamento",
+    "link": "https://vimeo.com/album/4311366/video/197750655",
+    "abstract": "Il fatto che rilasci continui e frequenti portino estremo valore è un fatto noto a tutti, ma spesso averne coscienza non è sufficiente per iniziare un percorso di cambiamento. Servono investimenti, formativi e tecnologici, che vanno motivati anche economicamente.\nNel mio talk vi parlerò di casi reali in cui abbiamo costruito una soluzione pratica, basata su alcune metriche del Lean, che permette di rispondere alla domanda:\n“Come posso valutare il ritorno dell’investimento di questo cambiamento?”"
+  },
+  {
+    "speaker": "Filippo Liverani",
+    "title": "Serverless TDD",
+    "link": "https://vimeo.com/album/4311366/video/198053376",
+    "abstract": "Le architetture serverless sono sistemi basati sul cloud nei quali l’implementazione e il deployment fanno uso esclusivo di logica client side e di combinazioni di servizi di terze parte e di funzioni remote come servizio.\nCome spesso accade con l’avvento di nuove tecnologie è facile cedere all’entusiasmo e dimenticarsi delle buone pratiche. In questa sessione vedremo come applicare alcune delle pratiche tecniche suggerite da XP, in particolare il TDD, per produrre codice di qualità e manutenibile anche nel mondo serverless."
+  },
+  {
+    "speaker": "Michele Finelli",
+    "title": "DevOps: buzzword o opportunità?",
+    "link": "https://vimeo.com/album/4311366/video/198052156",
+    "abstract": "Cosa serve ad un’azienda per adottare una mentalità DevOps? E soprattutto: ma perché dovrebbe farlo? Questa presentazione vuole provare a dare alcune risposte a queste domande.\nDa alcuni anni (~2008) nel mondo legato all’Agile è iniziato a segnalarsi un nuovo fenomeno, che va sotto il nome di DevOps.\nNon esiste (per scelta precisa dei primi praticanti) un Manifesto DevOps, che sia l’analogo dell’Agile Manifesto, e spesso le pratiche vanno sotto nomi differenti (come i Site Reliability Engineers di Google). Per cui, cosa c’è di importante, in questo movimento, per un’azienda moderna? Ancora più alle radici: c’è qualcosa, o è un’ennesima moda?"
+  },
+  {
+    "speaker": "Fabio Ghislandi",
+    "title": "“Accidenti!!! Non è Command&amp;Control!” ovvero “Stili di leadership in un contesto Agile”",
+    "link": "https://vimeo.com/album/4311366/video/198050341",
+    "abstract": "Applicare l’agilità significa anche cambiare l’approccio alla leadership. Faremo una panoramica introduttiva sulle ragioni profonde di questo cambiamento e come questo si esprime concretamente.\nA partire dal primo valore agile e dal concetto di team autorganizzato, vedremo in quale modo si può esprimere la leadership. \nCome novelli Virgilio, i vari Robert Greenleaf, Kenneth Blanchard, Paul Hersey, Mark McKergow e Helen Bailey ci accompagneranno in un viaggio verso nuove dimensioni di leadership."
+  },
+  {
+    "speaker": "Andrea Provaglio",
+    "title": "Leading",
+    "link": "https://vimeo.com/album/4311366/video/198017788",
+    "abstract": "“Scrum without self-organization and empowerment is […] an iterative, incremental death march” scriveva Ken Schwaber nel 2011. Però auto-organizzazione ed empowerment sono solo le controparti della leadership Agile — le prime due non possono esistere senza la terza. Lasciare che i team si auto-organizzino e dare al tempo stesso una guida non è un paradosso. È però impegnativo, complesso e contestuale. Pensare in termini di complessità può aiutarti a scegliere lo stile di leadership più adatto alle diverse circostanze, mentre una etica chiara e il più possibile staccata dall’ego ti permettono di osservare e influenzare le dinamiche in modo obiettivo."
+  },
+  {
+    "speaker": "Francesco Strazzullo",
+    "title": "Architetture Sacrificali",
+    "link": "https://vimeo.com/album/4311366/video/198014611",
+    "abstract": "L’architettura di un software è sicuramente qualcosa che non è facile cambiare in corsa. Come conciliare quindi il bisogno di un’architettura software con il bisogno di abbracciare il cambiamento tipico delle metodologie Agili? Una delle soluzioni è l’Architettura Sacrificale, concetto introdotto da Martin Fowler nel suo blog. Con questo tipo di architettura possiamo adattare il nostro codice alle features richieste in pochissimo tempo e mantenendo la nostra applicazione manutenibile nel tempo."
+  },
+  {
+    "speaker": "Ferdinando Santacroce",
+    "title": "TDD a piccoli passi",
+    "link": "https://vimeo.com/album/4311366/video/198011164",
+    "abstract": "Questa presentazione espone un metodo, “TDD a piccoli passi”, attraverso il quale è possibile far evolvere il proprio codice in maniera semplice ed ordinata, mantenendo basso il livello generale di complessità.\nIl metodo pone una traccia composta da una serie finita e ordinata di passaggi, dal più semplice a quello di maggiore complessità; compito dello sviluppatore è quello di seguirla, fermandosi non appena l’implementazione raggiunta soddisfa i test definiti in precedenza.\nQuesto approccio prende spunto dall’articolo “The Transformation Priority Premise” di Robert C. Martin; durante la presentazione, oltre a descrivere il metodo, verrà eseguito live un semplice kata che ne mette in mostra i punti di forza."
+  },
+  {
+    "speaker": "Marco Trincardi",
+    "title": "Metriche per finanziare il cambiamento",
+    "link": "https://vimeo.com/album/4311366/video/197750655",
+    "abstract": "Il fatto che rilasci continui e frequenti portino estremo valore è un fatto noto a tutti, ma spesso averne coscienza non è sufficiente per iniziare un percorso di cambiamento. Servono investimenti, formativi e tecnologici, che vanno motivati anche economicamente.\nNel mio talk vi parlerò di casi reali in cui abbiamo costruito una soluzione pratica, basata su alcune metriche del Lean, che permette di rispondere alla domanda:\n“Come posso valutare il ritorno dell’investimento di questo cambiamento?”"
+  },
+  {
+    "speaker": "Thiago Martinho",
+    "title": "Mobile Development the XP way",
+    "link": "https://vimeo.com/album/4311366/video/197749024",
+    "abstract": "Una presentazione dove tramite story-telling si raccontano le lezioni imparate nello sviluppo mobile (iOS/Android). Vedremo come da un progetto esistente si arriva a implementare continuous delivery in modo incrementale. \nNella presentazione ci sarà una storia di un progetto ed a ogni problema riscontrato si implementa una nuova pratica o metodo per risolverlo. Per esempio, per rilasciare l’app in beta testing devo fare troppi rilasci manuali, introduciamo una pipeline di continuous deployment."
+  },
+  {
+    "speaker": "Emiliano Soldi",
+    "title": "XLR8 (accelerate) your Agile Transformations",
+    "link": "https://vimeo.com/album/4311366/video/197746106",
+    "abstract": "Introdurre Agile e Lean in organizzazioni che hanno da sempre utilizzato approcci tradizionali allo sviluppo di prodotto e di gestione dei progetti, è una sfida affascinante, ma molto impegnativa.\nLe strutture organizzative costruire nel secolo scorso, non sono oggi più in grado di tenere.\nLe gerarchie su cui si basano quelle organizzazioni sono un impedimento all’innovazione a causa dei troppi livelli di management, della struttura a silos, della lentezza con cui le informazioni viaggiano.\nXLR8 è un modello di Change Management disegnato da John P. Kotter, che, sfrutta ed estende alcuni dei principi Agile alla gestione del cambiamento, mettendo nelle mani dei Change Agent un eccezionale strumento per guidare il cambiamento anche in organizzazioni gerarchiche e fortemente strutturate."
+  },
+  {
+    "speaker": "Pierluigi Pugliese",
+    "title": "Dark Scrum e come evitarlo",
+    "link": "https://vimeo.com/album/4311366/video/197668807",
+    "abstract": "Recentemente Ron Jeffries ha coniato il termine “Dark Scrum” per definire quelle implementazioni di Scrum che, nonostante possano sembrare a prima vista corrette, falliscono nell’implementarlo correttamente nella filosofia. Nella mia esperienza di consulente e coach Dark Scrum è una delle situazioni più frequenti che incontro nel lavorare con le aziende. In questa presentazione vedremo assieme i tipici antipattern e possibili soluzioni e giocheremo assieme al “Dark Scrum Bingo” per evidenziare quanto questo fenomeno sia frequente."
+  },
+  {
+    "speaker": "Giovanni Puliti",
+    "title": "Come motivare i team in un processo di adozione dell’agile",
+    "link": "https://vimeo.com/album/4311366/video/197612752",
+    "abstract": "Adottare Agile vuol dire portare il cambiamento all’interno della propria organizzazione. Non sempre il cambiamento è accettato dalle persone oppure l’organizzazione è pronta a modificare il proprio stile. Il cambiamento va spiegato, motivato, introdotto con le dovute azioni; va proposto ma anche sostenuto e alimentato.\nMa esattamente cosa vuol dire motivare? E come si fa a motivare un gruppo che si trova di fronte a un percorso di cambiamento?  In questo talk si affrontano queste tematiche fornendo alcuni suggerimenti utili per chi deve affrontare questo aspetto per la prima volta."
+  },
+  {
+    "speaker": "Alessio Del Toro",
+    "title": "Product Owner: scopriamo questo sconosciuto",
+    "link": "https://vimeo.com/album/4311366/video/196401879",
+    "abstract": "Il Product Owner è un ruolo introdotto da Scrum che è diventato un punto fondamentale di moltissimi progetti agili. Non c’è però molto nella letteratura relativamente a questo ruolo e, a volte, si ha difficoltà a capire quali sono le sue responsabilità, le skill che dovrebbe avere e quali tool ha a disposizione. Con questo speech si vuole fare chiarezza su questo ruolo prendendo dall’esperienza personale, quella di altri PO affiancati e da quanto emerso dai quattro POCamp tenutosi sino ad oggi."
+  },
+  {
+    "speaker": "Alessandro Bonometti",
+    "title": "Fighting the Leviathan – usare un’architettura basata sui principi ddd/cqrs per affrontare i monoliti",
+    "link": "https://vimeo.com/album/4311366/video/196401054",
+    "abstract": "Un progetto GreenField in architettura CQRS/ES che in poco tempo è cresciuto fino a diventare un mostro monolitico che ci stava divorando. La Bestia sembrava ormai fuori controllo, ma l’individuazione di ruoli e responsabilità e la loro separazione ci ha consentito di metterla in gabbia…prima che fosse troppo tardi..\nDopo una breve introduzione a DDD/CQRS, cercherò di spiegare come gli stessi principi usati nel “micro” siano forse ancora più utili e importati nel “macro”, e ci hanno consentito di passare da un’architettura layered a un’architettura esagonale, con grossi vantaggi in termini di scalabilità e manutenibilità."
+  },
+  {
+    "speaker": "Lorenzo Dematté",
+    "title": "Da N sviluppatori a 1 team: introdurre Agile in una piccola azienda",
+    "link": "https://vimeo.com/album/4311366/video/196400426",
+    "abstract": "Tre aziende, 8 anni, 15 sviluppatori diversi. E lo stesso problema che ritorna: creare dal nulla, o quasi, un team di sviluppo che sappia affrontare un grosso progetto software nella maniera migliore possibile. Qui non si parla di introdurre Agile per semplificare processi esistenti in una grande azienda, ma di usarlo per dare vita a un team di sviluppo che prima non esisteva, e che deve darsi un processo prima che qualcun altro glielo dia. Dove chi parla e’ uno che Agile lo ha “scoperto” lavorando, giorno per giorno, e ha ripetuto la stessa esperienza fino ad imparare qualcosa."
+  },
+  {
+    "speaker": "Pietro Campagnano",
+    "title": "Outcomes, not output",
+    "link": "https://vimeo.com/album/4311366/video/196398359",
+    "abstract": "Nel mondo dello sviluppo software il successo non è sviluppare feature affidabili nei tempi previsti, è raggiungere gli obiettivi del business.\nQuesto può sembrare una ovvietà, ma vedremo con degli esempi concreti come può cambiare concretamente il nostro lavoro e migliorare la soddisfazione dei  clienti."
+  },
+  {
+    "speaker": "Laura Bolletta",
+    "title": "Possiamo essere tutti formiche?",
+    "link": "https://vimeo.com/album/4311366/video/196398121",
+    "abstract": "Le formiche vivono in un ambiente molto più grande di loro e, da sempre, affrontano livelli di complessità elevati, quelli dell’ambiente naturale. Come fanno? Andiamo a conoscerle!"
+  },
+  {
+    "speaker": "Daniela Salerno",
+    "title": "50 sfumature di retrospettiva",
+    "link": "https://vimeo.com/album/4311366/video/196397911",
+    "abstract": "Un anno di vita di uno scrum team visto attraverso l’evoluzione delle sue retrospettive."
+  },
+  {
+    "speaker": "Jacopo Romei",
+    "title": "Panel “Cose agili”",
+    "link": "https://vimeo.com/album/4311366/video/196396367",
+    "abstract": "6 persone di aziende che “fanno cose agili” condividono la loro esperienza, e rispondono alle domande del pubblico. Facilitatore, Jacopo Romei.\nCon Matteo Vaccari (tema: inception), Nicolò Volpato (tema: design vision), Michele Orselli (tema: team distribuiti), Marco Fracassi (tema: XP), Lorenzo Massacci (tema: contratti agili), Simon Vocella (tema: miglioramento continuo)."
+  },
+  {
+    "speaker": "Pietro di Bello",
+    "title": "Vivere per raccontarla: l’importanza del daily journal in un team agile",
+    "link": "https://vimeo.com/album/4311366/video/195952480",
+    "abstract": "Da anni, nei diversi team con i quali mi sono trovato a collaborare, ho proposto sempre questa pratica: tenere un diario di bordo, da scrivere a fine giornata, per raccontare come è andata, cosa abbiamo imparato, cosa ci manca per chiudere il task sul quale stiamo lavorando e quali ostacoli o dubbi abbiamo incontrato.\nPensatela come un vero specchio dello standup meeting: con questo apro la giornata, mentre con il daily journal la chiudo. \nIl journal ha tantissimi effetti benefici, che vorrei raccontarvi nei 10 minuti del lightning talk. Il mio obiettivo è darvi uno spunto per valutare e provare anche voi questa pratica."
+  },
+  {
+    "speaker": "Fabio Armani",
+    "title": "Agile Testing: a fast introduction",
+    "link": "https://vimeo.com/album/4311366/video/195952013",
+    "abstract": "Agile Testing. Questa si che è per me una bella sfida! O no?\nMi occuppo di Agile Testing da oltre una decade e tengo corsi (‘in house’) da oltre sei. \nD (voi): Mmmhm …. E allora, anche se saembri competente (beneficio del dubbio) cosa vuoi fare? Dove sarebbe il salto mortale?\nR (voi): Il salto è condensare oltre due/tre giorni di attività in soli 10′. \nQuindi vi chiedo, di provare a darmi fiducia e lasciarmi provare. Alla peggio vedrete un bel tonfo pirotecnico 😉\nE infine (utimo, ma non ultimo) … il tutto sarà rigorosamente INTRODUTTIVO!"
+  },
+  {
+    "speaker": "Enrica Lipari",
+    "title": "Il lato umano della Lean&amp;Agile Organization",
+    "link": "https://vimeo.com/album/4311366/video/195951762",
+    "abstract": "Cosa ho imparato come HR/People durante il supporto alla transizione organizzativa e che effetti ho verificato sulla crescita delle persone impattate nonché sulla maturità della direzione HR."
+  },
+  {
+    "speaker": "Enea Parimbelli",
+    "title": "Agile in universita’, si puo’?",
+    "link": "https://vimeo.com/album/4311366/video/195950770",
+    "abstract": "Perche’ continuiamo a insegnare (solo) lo sviluppo waterfall ai nostri futuri informatici e ingegneri?  corsi di ingegneria del software dove si spiega il processo di sviluppo, analisi requisiti, UML e compagnia bella va benissimo e hanno una loro ragione storica. Ma perche’ confinare tecniche piu’ attuali, usate e richieste nel mondo del lavoro, alla parte “e poi c’e’ anche quella roba strana e new-age” del corso? \nVorrei presentare cosa facciamo noi per “dare un’idea” che agile esiste all’universita’ di Pavia. La sessione breve sarebbe anche l’occasione di raccogliere il feedback della community agile su come migliorare anche la proposta didattica e/o su quali argomenti si prestino meglio ad un primo approccio ad agile (refactoring? pattern architetturali? CRC? teamwork e retrospettive?)"
+  },
+  {
+    "speaker": "Gojko Adzic",
+    "title": "Keynote - Impact Mapping",
+    "link": "https://vimeo.com/album/4311366/video/195949530",
+    "abstract": "Impact Mapping is a lightweight method for strategic planning in\nproduct and project development. Although seemingly simple and\nintuitive, many teams fail to get the most out of it because they jump\nto conclusions too quickly and skip over important discussions.\nGojko will talk about how to avoid common pitfalls and present two\ninnovation games that can help you facilitate impact mapping easily,\nsupport innovative ideas and divergent thinking, and help your teams\nand clients make a big impact through software delivery."
+  }
+]
