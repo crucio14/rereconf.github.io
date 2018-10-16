@@ -10,4 +10,8 @@
 	"conference": "IAD",
 	"year": 2016,
 	"url": "IAD-2016.json"
+},{
+	"conference": "MilanKotlinCommunityConf",
+	"year": 2018,
+	"url": "MilanKotlinCommunityConf-2018.json"
 }]
