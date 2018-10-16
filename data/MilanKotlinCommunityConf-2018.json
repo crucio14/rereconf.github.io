@@ -5,5 +5,29 @@
 	"tags": ["kotlin","Android"],
     "language": "en",
 	"abstract": "Android KTX is an amazing framework to write better, slimmer and simpler code in Kotlin, but how does it work internally, and what are the most interesting features it provides? Join us in this deep dive into the library and the concepts of Kotlin that made it possible."
+},
+{
+	"speaker": "Dario Coletto",
+	"title": "Annotation Processing with Kotlin KAPT",
+	"link": "https://vimeo.com/album/5286228/video/279207789",
+	"tags": ["kotlin","Annotation Processing"],
+    "language": "en",
+	"abstract": "In this talk we're going to explain what an annotation processor is, why it is used and how to build a simple annotation processor with kotlin. We're going to use KotlinPoet to generate our code with ease and take a look at most common pitfalls/errors done while building an annotation processor"
+},
+{
+	"speaker": "Fabio Collini",
+	"title": "From Java to Kotlin beyond Alt+Shift+Cmd+K",
+	"link": "https://vimeo.com/album/5286228/video/279207344",
+	"tags": ["kotlin","java"],
+    "language": "en",
+	"abstract": "Thanks to Android Studio it’s really easy to introduce Kotlin in an existing project, the configuration is trivial and then we can convert Java classes to Kotlin using a Alt+Shift+Cmd+K. But the new syntax is the just beginning, using Kotlin we can improve our code making it more readable and simpler to write.In this talk we’ll see how to use some Kotlin features (for example data classes, collections, coroutines and delegates) to simplify Android development comparing the code with the equivalent “modern” Java code. It’s not fair to compare Kotlin code with plain Java 6 code so the Java examples will use lambdas and some external libraries like RxJava and AutoValue."	
+},
+{
+	"speaker": "Damiano Giusti",
+	"title": "Kotlin RxJava-Android goes SOLID",
+	"link": "https://vimeo.com/album/5286228/video/279206868",
+	"tags": ["kotlin","SOLID","RxJava","Android"],
+    "language": "en",
+	"abstract": "Based on a real project, the talk will cover some aspects that have been addressed during the development lifecycle. Modeling state, objects immutability, enhanced RxJava operators, collection extensions, stdlib functions, unit testing and more. Android goes SOLID!"	
 }
 ]
