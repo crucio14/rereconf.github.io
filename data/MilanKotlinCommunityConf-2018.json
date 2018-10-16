@@ -1,0 +1,9 @@
+[{
+	"speaker": "Roberto Orgiu",
+	"title": "Inside Android KTX",
+	"link": "https://vimeo.com/album/5286228/video/279224163",
+	"tags": ["kotlin","Android"],
+    "language": "en",
+	"abstract": "Android KTX is an amazing framework to write better, slimmer and simpler code in Kotlin, but how does it work internally, and what are the most interesting features it provides? Join us in this deep dive into the library and the concepts of Kotlin that made it possible."
+}
+]
