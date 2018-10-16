@@ -29,5 +29,29 @@
 	"tags": ["kotlin","SOLID","RxJava","Android"],
     "language": "en",
 	"abstract": "Based on a real project, the talk will cover some aspects that have been addressed during the development lifecycle. Modeling state, objects immutability, enhanced RxJava operators, collection extensions, stdlib functions, unit testing and more. Android goes SOLID!"	
+},
+{
+	"speaker": "Marco Falcier",
+	"title": "Serverless Event-driven Architecture with Kotlin",
+	"link": "https://vimeo.com/album/5286228/video/279129755",
+	"tags": ["kotlin","serverless"],
+    "language": "it",
+	"abstract": "Serverless è uno dei temi più caldi da quando il cloud è diventato popolare. Non è sempre così lineare, però, il passaggio da un'architettura "classica" sincrona, ad una serverless asincrona. In questo talk andremo a capire meglio cosa significhi effettuare il passaggio a serverless con un'applicazione backend in Kotlin, tramite l'ausilio di Serverless Framework e di come Pixartprinting ha adottato questa tecnologia per trasformare in poco tempo la propria architettura ad una ad eventi, scalabile, completamente asincrona, ma soprattutto, serverless."	
+},
+{
+	"speaker": "Francesco Sacchi",
+	"title": "Funtional programming triage",
+	"link": "https://vimeo.com/album/5286228/video/279115167",
+	"tags": ["kotlin","functional programming"],
+    "language": "it",
+	"abstract": "Cos'è la programmazione funzionale? Perché dovrebbe interessarmi? Cercherò di dare risposte concrete a queste domande, senza paroloni e con un approccio pragmatico."	
+},
+{
+	"speaker": "Victor Kropp",
+	"title": "Multi-platform Kotlin projects",
+	"link": "https://vimeo.com/album/5286228/video/278918379",
+	"tags": ["kotlin","multi-platform"],
+    "language": "en",
+	"abstract": "Kotlin was introduced as an alternative programming language for JVM. But it is not limited to a single platform. Instead, the team is working hard to bring it everywhere. It is already possible to run Kotlin on Android and compile it to JavaScript. And there is Kotlin/Native project actively in development, which will bring Kotlin to desktop and iOS. Let's see how Kotlin can help us share code between platforms, why do we need it and what are the best practices in doing this."		
 }
 ]
